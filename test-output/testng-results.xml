@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1007" started-at="2022-10-11T21:43:08 IST" finished-at="2022-10-11T21:43:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1007" started-at="2022-10-11T21:43:08 IST" finished-at="2022-10-11T21:43:09 IST">
+      <class name="PracticeExamples1.B_DeserilizationOfaddProject">
+        <test-method status="PASS" signature="B_Deserilization()[pri:0, instance:PracticeExamples1.B_DeserilizationOfaddProject@6043cd28]" name="B_Deserilization" duration-ms="858" started-at="2022-10-11T21:43:08 IST" finished-at="2022-10-11T21:43:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_Deserilization -->
+      </class> <!-- PracticeExamples1.B_DeserilizationOfaddProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

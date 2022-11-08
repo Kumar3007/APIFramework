@@ -1,0 +1,12 @@
+{
+"firstName":"kumar",
+"lastName":"ram",
+"comp":"tyss",
+"phoneNo":[123456,7891011],
+"email":"kuma@gmail.com",
+"uRL":"www.kumar.com",
+"address":"mysore",
+"socialProfile":"firend",
+"nickName":["xyz","abc"],
+"family":{"fatherName":"Ramanji","motherName":"Gowramma"}
+}
